@@ -1,0 +1,6 @@
+streamlit
+google.generativeai
+PIL
+os
+dotenv
+Google API key
